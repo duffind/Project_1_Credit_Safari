@@ -48,10 +48,10 @@ Yearly Education: Yearly Income
 
 ![neg corr 1](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/2677adbe-eb98-4746-a306-a3553615e571)
 ![neg corr 2](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/5599bc3e-4826-4d23-8970-e54deafabd63)
-![neg corr 3](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/4943b019-598d-46de-a70b-ddd08f657d44)
+![neg corr 3](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/4943b019-598d-46de-a70b-ddd08f657d44)<br>
 
 
-**Geographical Analysis**
+**Geographical Analysis**<br>
 ![DC Credit Quintile](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/4f4919cf-ba03-4f08-8a3a-77e96e2b61c9)
 ![AK Credit Quintile](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/c7bd0d65-df54-4508-94c9-8debc80461c0)
 ![NY Credit Quintile](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/f79d3834-f973-4a4c-ac1f-b39ce2c5c960)
