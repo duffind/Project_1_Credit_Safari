@@ -11,6 +11,16 @@ What are the three primary positive behavioral patterns correlated with 	elevate
 What are the three principal adverse behavioral patterns associated 	with diminished credit scores?
 
 In which geographic region do we observe the highest mean credit scores?
+
+## Purpose
+Investigate the potential of publicly accessible data to unveil behaviors influencing credit scores, both positively and negatively.
+
+Explore the existence of geographic concentrations where individuals with elevated credit scores predominantly reside.
+
+Deliver the findings in a polished and meticulously structured format, ensuring clarity and professionalism in the presentation of data analysis results.
+
+![image](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/d2c89192-0385-459a-898c-3be4f7164033)
+
 ![image](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/2a6a7f0b-ca9c-46c9-aeca-2651f2165817)
 
 
@@ -23,6 +33,7 @@ In which geographic region do we observe the highest mean credit scores?
 
 ## Table of Contents
 - [Installation](#installation)
+- [Data Sets](#datasets)
 - [Credits](#credits)
 - [Features](#features)
 - [Resources](#resources)
@@ -30,6 +41,11 @@ In which geographic region do we observe the highest mean credit scores?
 
 ## Installation
 Jupyter Notebook, Python, PowerPoint
+
+## Data Sets
+https://www.kaggle.com/datasets/conorsully1/credit-score/data
+https://www.kaggle.com/datasets/somyaagarwal69/loan-data-2015
+
 
 
 ## Credits
@@ -66,6 +82,8 @@ ASU Data Analytics Course Activities
 ## Contact
 If there are any questions of concerns, I can be reached at:
 ##### [github: teelam1910](https://github.com/teelam1910)
+##### [github: duffind](https://github.com/duffind)
 ##### [email: tiffanylamar1@gmail.com](mailto:tiffanylamar1@gmail.com)
+##### [email: tiffanylamar1@gmail.com](mailto:taryn.pope1@gmail.com)
 
 
