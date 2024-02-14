@@ -19,9 +19,6 @@ Explore the existence of geographic concentrations where individuals with elevat
 
 Deliver the findings in a polished and meticulously structured format, ensuring clarity and professionalism in the presentation of data analysis results.
 
-![image](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/d2c89192-0385-459a-898c-3be4f7164033)
-
-![image](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/2a6a7f0b-ca9c-46c9-aeca-2651f2165817)
 
 **Strongest Positive Corr**
 
@@ -101,8 +98,8 @@ https://medium.com/@szabo.bibor/how-to-create-a-seaborn-correlation-heatmap-in-p
 
 https://medium.com/geekculture/simple-linear-regression-bd4348e1ee62
 
-ASU Data Analytics Course Activities
-![image](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/ee7aea7a-674b-4824-958f-79848e0cdd39)
+ASU Data Analytics Course Activities<br>
+
 
 
 ## Contact
