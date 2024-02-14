@@ -23,10 +23,9 @@ In which geographic region do we observe the highest mean credit scores?
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
 - [Credits](#credits)
-
 - [Features](#features)
+- [Resources](#resources)
 - [Contact](#contact)
 
 ## Installation
@@ -62,7 +61,6 @@ https://medium.com/geekculture/simple-linear-regression-bd4348e1ee62
 
 ASU Data Analytics Course Activities
 ![image](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/ee7aea7a-674b-4824-958f-79848e0cdd39)
-
 
 
 ## Contact
