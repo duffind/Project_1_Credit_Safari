@@ -23,10 +23,28 @@ Deliver the findings in a polished and meticulously structured format, ensuring 
 
 ![image](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/2a6a7f0b-ca9c-46c9-aeca-2651f2165817)
 
+**Strongest Positive Corr**
+
+Yearly Groceries: Current Debt
+0.286999<br>
+Yearly Expenditures: Current Debt
+0.286999<br>
+Yearly Utilities: Current Debt 
+0.303482<br>
 
 ![pos corr 1](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/fd15dfd9-8241-4c3a-b7dc-34e5c6bc4158)
 ![pos corr 2](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/09abeede-bf00-4851-8c99-c2ec4e0ed112)
 ![pos corr 3](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/dd4025b1-9944-4819-b434-4cf1e2a2baab)
+
+**Strongest Negative Corr**
+
+Current Debt: Yearly Income
+-0.857900<br>
+Current Debt: Current Savings
+-0.454068<br>
+Yearly Education: Yearly Income
+-0.303268<br>
+
 
 ![neg corr 1](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/2677adbe-eb98-4746-a306-a3553615e571)
 ![neg corr 2](https://github.com/duffind/Project_1_Credit_Safari/assets/132629216/5599bc3e-4826-4d23-8970-e54deafabd63)
