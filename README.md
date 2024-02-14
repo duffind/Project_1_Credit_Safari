@@ -86,10 +86,10 @@ ASU Data Analytics Course Activities
 
 
 ## Contact
-If there are any questions of concerns, I can be reached at:
+If there are any questions of concerns, we can be reached at:
 ##### [github: teelam1910](https://github.com/teelam1910)
 ##### [github: duffind](https://github.com/duffind)
 ##### [email: tiffanylamar1@gmail.com](mailto:tiffanylamar1@gmail.com)
-##### [email: tiffanylamar1@gmail.com](mailto:taryn.pope1@gmail.com)
+##### [email: taryn.pope1@gmail.com](mailto:taryn.pope1@gmail.com)
 
 
