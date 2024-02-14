@@ -43,7 +43,7 @@ Deliver the findings in a polished and meticulously structured format, ensuring 
 Jupyter Notebook, Python, PowerPoint
 
 ## Data Sets
-https://www.kaggle.com/datasets/conorsully1/credit-score/data
+https://www.kaggle.com/datasets/conorsully1/credit-score/data <br>
 https://www.kaggle.com/datasets/somyaagarwal69/loan-data-2015
 
 
